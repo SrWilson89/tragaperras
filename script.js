@@ -1,4 +1,4 @@
-let balance = 100; // Saldo inicial del jugador
+let balance = 1000; // Saldo inicial del jugador
 const spinCost = 10; // Costo por cada tirada
 
 document.getElementById('spin').addEventListener('click', spin);
