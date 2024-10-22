@@ -48,3 +48,9 @@ button:active {
     font-size: 18px;
     font-weight: bold;
 }
+
+#balance {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+}
